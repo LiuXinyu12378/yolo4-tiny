@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4dae6fa8-0f02-47c9-8c1c-7295dc704c7d" name="10.110.156.90" url="http://10.110.156.72">
+        <fileTransfer host="10.110.156.72" port="22" privateKey="C:\Users\xinyuuliu\puttykeygen.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>VOC2007</folder>
+<filename>fall_135.jpg</filename>
+<source>
+<database>The VOC2007 Database</database>
+<annotation>PASCAL VOC2007</annotation>
+</source>
+<size>
+<width>1080</width>
+<height>1867</height>
+<depth>3</depth>
+</size>
+<object>
+<name>fall</name>
+<difficult>0</difficult>
+<bndbox>
+<xmin>553</xmin>
+<ymin>1068</ymin>
+<xmax>1017</xmax>
+<ymax>1226</ymax>
+</bndbox>
+</object>
+</annotation>
